@@ -37,8 +37,8 @@
 		<Linker>
 			<Add library="mgl" />
 		</Linker>
-		<Unit filename="howToRun_examples.cpp" />
 		<Unit filename="include/statisticsLibrary.h" />
+		<Unit filename="src/main-pfsalminen.cpp" />
 		<Unit filename="src/statisticsLibrary.cpp" />
 		<Extensions>
 			<code_completion />
