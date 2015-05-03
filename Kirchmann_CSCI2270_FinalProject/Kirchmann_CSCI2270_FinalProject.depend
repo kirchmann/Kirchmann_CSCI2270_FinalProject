@@ -8,7 +8,7 @@
 	<vector>
 	<iostream>
 
-1429921976 source:/home/user/Dropbox/CSCI2270 Data structures/Project/Kirchmann_CSCI2270_FinalProject/Kirchmann_CSCI2270_FinalProject/src/statisticsLibrary.cpp
+1429975140 source:/home/user/Dropbox/CSCI2270 Data structures/Project/Kirchmann_CSCI2270_FinalProject/Kirchmann_CSCI2270_FinalProject/src/statisticsLibrary.cpp
 	"vector"
 	<iostream>
 	<math.h>
@@ -44,4 +44,8 @@
 	<boost/cstdint.hpp>
 	<blitz/array.h>
 	<windows.h>
+
+1429975140 source:/home/user/Dropbox/CSCI2270 Data structures/Project/Kirchmann_CSCI2270_FinalProject/Kirchmann_CSCI2270_FinalProject/howToRun_examples.cpp
+	<statisticsLibrary.h>
+	<iostream>
 
